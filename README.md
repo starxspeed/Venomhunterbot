@@ -2,10 +2,10 @@
 <b> 『Venomhunterbot』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![VENOMHUNTERBOT](https://te.legra.ph/file/81b1fae7a6c1c3181d15b.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ VENOMHUNTERBOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <a href="https://github.com/starxspeed/Venomhunterbot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/STAR_X_SPEEDYBOT" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/starxspeed/Venomhunterbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
@@ -30,16 +30,16 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/starxspeed/Venomhunterbot/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/starxspeed/Venomhunterbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/starxspeed/Venomhunterbot"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/STAR_X_SPEEDYBOT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/STAR_X_SPEEDY_BOT)
 
 ------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
+- [![YouTube Channel Subscribers](https://youtube.com/channel/UCZbwVH0mEaKz28mPM0gNSiQ)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------------
@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/81b1fae7a6c1c3181d15b.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://te.legra.ph/file/10fcb9fbff5128bc87a1b.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
